@@ -1,3 +1,4 @@
+// Proiect realizat de Alexandra Camarasan, Monica Burcusel, Rares Bunda
 
 #include <iostream>
 #include <cstring>
